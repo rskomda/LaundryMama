@@ -1,0 +1,8 @@
+.custom-button {
+    -fx-background-color: #0A57A2;
+    -fx-text-fill: white;
+}
+
+.inactive-button {
+    -fx-background-color: white;
+}
